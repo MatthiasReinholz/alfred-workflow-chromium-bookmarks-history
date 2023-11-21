@@ -16,6 +16,10 @@ from Favicon import Icons
 
 BOOKMARS_MAP = {
     "brave": 'Library/Application Support/BraveSoftware/Brave-Browser/Default/Bookmarks',
+    "brave": 'Library/Application Support/BraveSoftware/Brave-Browser/Profile 1/Bookmarks',
+    "brave": 'Library/Application Support/BraveSoftware/Brave-Browser/Profile 2/Bookmarks',
+    "brave": 'Library/Application Support/BraveSoftware/Brave-Browser/Profile 3/Bookmarks',
+    "brave": 'Library/Application Support/BraveSoftware/Brave-Browser/Profile 4/Bookmarks',
     "brave_beta": 'Library/Application Support/BraveSoftware/Brave-Browser-Beta/Default/Bookmarks',
     "chrome": 'Library/Application Support/Google/Chrome/Default/Bookmarks',
     "chromium": 'Library/Application Support/Chromium/Default/Bookmarks',
